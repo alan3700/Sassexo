@@ -1,0 +1,6 @@
+.card{
+    @include card;
+}
+.anotherone{
+    @include card(50rem,purple,green,red)
+}

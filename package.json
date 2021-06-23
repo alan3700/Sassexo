@@ -1,0 +1,15 @@
+{
+  "name": "07-sass-exo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "scripts": {
+    "sassCompilation": "sass sass:css --watch --style=compressed"
+  },
+  "author": "Alan Daunay",
+  "license": "ISC"
+}
